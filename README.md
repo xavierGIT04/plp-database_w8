@@ -39,3 +39,7 @@ You will be prompted to enter your MySQL password. Once the command completes, a
 Alternatively, if you are using a GUI tool like MySQL Workbench, you can simply open the .sql file and execute all the queries.
 
 Once the schema is imported, you'll be ready to add data and perform queries. Let me know if you'd like to see examples of INSERT statements to populate the tables!
+
+ERD :   <img width="561" height="552" alt="image" src="https://github.com/user-attachments/assets/e2f17b28-fbde-4e7c-b68c-153d06bdaf0f" />
+
+
